@@ -1,11 +1,3 @@
-/csv_html.html
-/aux_files/error_message.csv
-/aux_files/error_messages.html
-/main.py
-/aux_files/read_death.txt
-/aux_files/user_emails.csv
-/aux_files/user_emails.html
-/aux_files/user_statics.csv
-/aux_files/user_statics.html
-/user_statistics.html
+aux_files
+log_reader
 .idea
