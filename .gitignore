@@ -1,3 +1,9 @@
 aux_files
 log_reader
 .idea
+venv
+__pycache__/
+csv_html.html
+info_gather.sh
+rename_bash_google.sh
+user_statistics.html
