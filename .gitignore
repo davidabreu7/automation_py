@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 aux_files
 log_reader
 .idea
@@ -5,6 +6,8 @@ csv_html.html
 info_gather.sh
 rename_bash_google.sh
 user_statistics.html
+=======
+>>>>>>> 691038c0f370a0455098c9c24b1e05a026559f90
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -27,6 +30,10 @@ parts/
 sdist/
 var/
 wheels/
+<<<<<<< HEAD
+=======
+pip-wheel-metadata/
+>>>>>>> 691038c0f370a0455098c9c24b1e05a026559f90
 share/python-wheels/
 *.egg-info/
 .installed.cfg
@@ -56,7 +63,10 @@ coverage.xml
 *.py,cover
 .hypothesis/
 .pytest_cache/
+<<<<<<< HEAD
 cover/
+=======
+>>>>>>> 691038c0f370a0455098c9c24b1e05a026559f90
 
 # Translations
 *.mo
@@ -79,7 +89,10 @@ instance/
 docs/_build/
 
 # PyBuilder
+<<<<<<< HEAD
 .pybuilder/
+=======
+>>>>>>> 691038c0f370a0455098c9c24b1e05a026559f90
 target/
 
 # Jupyter Notebook
@@ -90,9 +103,13 @@ profile_default/
 ipython_config.py
 
 # pyenv
+<<<<<<< HEAD
 #   For a library or package, you might want to ignore these files since the code is
 #   intended to run in multiple environments; otherwise, check them in:
 # .python-version
+=======
+.python-version
+>>>>>>> 691038c0f370a0455098c9c24b1e05a026559f90
 
 # pipenv
 #   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
@@ -137,9 +154,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 
 # pytype static type analyzer
 .pytype/
 
 # Cython debug symbols
 cython_debug/
+=======
+>>>>>>> 691038c0f370a0455098c9c24b1e05a026559f90
